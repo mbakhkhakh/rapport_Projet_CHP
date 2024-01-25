@@ -78,5 +78,7 @@ Having determined the value of u∗, the value of ψ is then computed using the 
 ### Correction Step:
 The velocity value uⁿ⁺¹  at time tⁿ⁺¹ is ultimately derived from the correction equation as follows: 
 <p align="center">
-  <img src="eq10.png" alt="eqaution 10" width="500"/>
+  <img src="eq10.png" alt="Equation 10" width="500"/>
+  <br>
+  <span style="display: block; text-align: center;">Caption for Equation 10</span>
 </p>
