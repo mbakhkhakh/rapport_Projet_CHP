@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="ogo_inria.png" alt="Logo" width="100"/>
+  <img src="logo_inria.png" alt="Logo" width="100"/>
 </p>
 
 
